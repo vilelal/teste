@@ -1,0 +1,102 @@
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.exe
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.deps.json
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.runtimeconfig.json
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\Google.Protobuf.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\MySql.Data.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Json.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\ZstdSharp.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.AssemblyReference.cache
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.Form1.resources
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.GenerateResource.cache
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfoInputs.cache
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfo.cs
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.CoreCompileInputs.cache
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_.66D1A063.Up2Date
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\refint\conexao_banco.dll
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.genruntimeconfig.cache
+U:\DS CRISTIANO\3_bimestre\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\ref\conexao_banco.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.exe
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.deps.json
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.runtimeconfig.json
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\Google.Protobuf.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\MySql.Data.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Json.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\ZstdSharp.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.AssemblyReference.cache
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.Form1.resources
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.GenerateResource.cache
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfoInputs.cache
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfo.cs
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.CoreCompileInputs.cache
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_.66D1A063.Up2Date
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\refint\conexao_banco.dll
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.genruntimeconfig.cache
+U:\DS\3Bimestre\3_bimestre_DS-main\3_bimestre_DS-main\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\ref\conexao_banco.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.exe
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.deps.json
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.runtimeconfig.json
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\Google.Protobuf.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\MySql.Data.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\System.Text.Json.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\ZstdSharp.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.AssemblyReference.cache
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.Form1.resources
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.GenerateResource.cache
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfoInputs.cache
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.AssemblyInfo.cs
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.csproj.CoreCompileInputs.cache
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_.66D1A063.Up2Date
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\refint\conexao_banco.dll
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.pdb
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\conexao_banco.genruntimeconfig.cache
+U:\DS\conexao_banco\conexao_banco\conexao_banco\conexao_banco\obj\Debug\net8.0-windows\ref\conexao_banco.dll
